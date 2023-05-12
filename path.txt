@@ -3,3 +3,6 @@ npm install ngx-print --legacy-peer-deps
 
 https://www.youtube.com/watch?v=BO99OZgq3sU
  this is path txt file .
+
+
+vardhana mane.
